@@ -25,19 +25,19 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/NoorAzam-1">
+<a href="https://github.com/priyak02125">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/noor-azam786">
+<a href="https://www.linkedin.com/in/priyakumari0212/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:azamnoor698@gmail.com">
+<a href="mailto:priyaroy.sanoj@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://noorazam.vercel.app" target="_blank">
+<a href="https://priyakumari02.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -96,7 +96,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NoorAzam-1&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=priyak02125-1&theme=tokyo-night&hide_border=true" 
   />
 </p>
 
@@ -109,5 +109,5 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 ---
 
 <p align="center">
-⭐ From <b>Noor Azam</b>
+⭐ From <b>Priya Kumari</b>
 </p>
