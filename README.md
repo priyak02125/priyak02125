@@ -87,7 +87,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=NoorAzam-1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=8" 
+    src="https://github-profile-trophy.vercel.app/?username=priyak02125&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=8" 
   />
 </p>
 
@@ -96,7 +96,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=priyak02125-1&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=priyak02125&theme=tokyo-night&hide_border=true" 
   />
 </p>
 
