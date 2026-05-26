@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Priya Kumari</h1>
 
 <h3 align="center">
-MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
+MERN Stack Developer | Next.js Developer 
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@ MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
 # 💫 About Me
 
 💻 Passionate Full Stack MERN Developer from Delhi  
-🎓 MCA Graduate from IGNOU  
+🎓 BCA Graduate from IGNOU  
 ⚡ Skilled in building responsive and scalable web applications  
 🚀 Currently learning advanced backend development & authentication systems  
 🛠️ Love working with React, Next.js, TypeScript, Node.js & MongoDB  
