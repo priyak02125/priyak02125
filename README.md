@@ -83,7 +83,7 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 
 ---
 
-# 🏆 GitHub Trophies
+
 
 <!-- <p align="center">
   <img 
