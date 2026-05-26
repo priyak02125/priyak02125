@@ -70,20 +70,6 @@ MERN Stack Developer | Next.js Developer
 ### Tech Used:
 React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoose,  Redux Toolkit, Zustand, Tailwind Css
 
----
-
-# 📚 Currently Learning
-
-- Advanced Authentication Systems
-- Redux Saga Deep Dive
-- Backend Architecture
-- Web Socket
-- MultiLangunage
-- Scalable MERN Applications
-
----
-
-
 
 <!-- <p align="center">
   <img 
