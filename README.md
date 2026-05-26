@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm Noor Azam</h1>
+<h1 align="center">🚀 Hi, I'm Priya Kumari</h1>
 
 <h3 align="center">
 MERN Stack Developer | Next.js Developer | TypeScript Enthusiast
