@@ -80,11 +80,11 @@ React.js, Next.js, Javascript, TypeScript, Node.js, Express.js, MongoDB, Mongoos
 ---
 # 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=priyak02125&theme=tokyo-night&hide_border=true" 
   />
-</p>
+</p> -->
 
 ---
 
